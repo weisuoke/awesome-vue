@@ -1,6 +1,6 @@
 export default {
   mode: 'site',
-  title: 'Awesome react',
+  title: 'Awesome vue',
   resolve: {
     previewLangs: []
   },
