@@ -8,6 +8,10 @@ export default {
     {
       title: 'vue3',
       path: '/vue3'
+    },
+    {
+      title: '架构',
+      path: '/architecture'
     }
   ]
 }
